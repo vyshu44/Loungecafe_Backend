@@ -1,0 +1,6 @@
+@LoungeCafe_HostAddress = http://localhost:5170
+
+GET {{LoungeCafe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
